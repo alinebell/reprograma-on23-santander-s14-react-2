@@ -16,8 +16,8 @@ E deverá conter os componentes como descrito abaixo.
 
 # Dependências
 >> utilizar o npm para instalar no projeto
-react-icons (incluir ícones no projeto)
-axios (para consumir api)
+react-icons (incluir ícones no projeto) FEITO
+axios (para consumir api) FEITO
 
 # Componentes maiores
 >> componentes que usam os componentes menores recebendos os conteúdos por props
